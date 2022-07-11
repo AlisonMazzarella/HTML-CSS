@@ -32,7 +32,7 @@ body {
   padding: 0;
   font-size: 18px;
   text-align: center;
-  background-color: #D8C99B;
+  /*background-color: #D8C99B;*/
   opacity: 50px;
 }
 img {
@@ -66,7 +66,7 @@ h4 {
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--heading-font);
-  color: var(--headline-color-on-white);
+  /*color: var(--headline-color-on-white);*/
 }
 h2 {
   text-align: center;
@@ -81,12 +81,12 @@ hr {
   height: 3px;
   margin: 35px 0;
   padding: 0;
-  background: var(--accent1-color);
+  /*background: var(--accent1-color);*/
 }
 header {
   padding: 0;
   text-align: center;
-  color: var(--paragraph-color-on-color);
+  /*color: var(--paragraph-color-on-color);*/
   background-color: var(--paragraph-background-color);
   display: grid;
   grid-template-columns: 500px auto;

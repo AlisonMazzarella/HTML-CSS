@@ -26,14 +26,14 @@ Fonts are separated by a | */
   --nav-hover-background-color: #273E47;
 }
 body {
-  max-width: auto;
+  width: auto;
   height: auto;
   margin: 0 auto;
   font-size: 18px;
   text-align: left;
   padding: 0;
   background-color: #D8C99B;
-  opacity: 50px;
+  opacity: 50;
 }
 img {
   display: block;

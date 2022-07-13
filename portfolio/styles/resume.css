@@ -26,14 +26,14 @@ Fonts are separated by a | */
   --nav-hover-background-color: #273E47;
 }
 body {
-  max-width: auto;
+  width: auto;
   height: auto;
   margin: 0 auto;
   padding: 0;
   font-size: 18px;
   text-align: center;
   /*background-color: #D8C99B;*/
-  opacity: 50px;
+  opacity: 50;
 }
 #color_changer-box {
   float: left;
@@ -53,7 +53,6 @@ img {
   padding: 30px;
   height: auto;
   max-width: 30%;
-  align-content: right;
 }
 #career-box img {
     float: left;
